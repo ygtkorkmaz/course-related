@@ -20,4 +20,5 @@ o<sub>j</sub> is position of jth obstacle, and p<sub>r</sub>, p<sub>j</sub> are 
 ## Important Notes
 
 - Note that this code is a part of bigger ROS code, so clonening this repo alone will not work. You need other parts such as odometry data etc.
+- The locations of obstacles and goal points with respect to an origin must be defined in .h file in order for this code to run properly.
 - The k parameter in the APF is kind of a smoothing parameter used in calculations moving curves. This can be changed from .h file
