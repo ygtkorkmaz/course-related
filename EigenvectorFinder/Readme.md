@@ -11,17 +11,16 @@ In the same folder with source.cpp file!
 
 After this ensured, you can give arguments to program, and compile and run it. You should be able to see the results(or it can be an error message depending on arguments and matrix) If there aren't any errors, you can see first 2 dominant eigenvalues and eigenvector belonging to most dominant one both as output, and in the output file whose name is also given as argument to program. For example for given matrix above you should be able to get output like below:
 
+```
 Eigenvalue#1: 20.488
 
 0.348061
-
 0.622149
-
 0.554319
-
 1
 
 Eigenvalue#2: 3.91405
+```
 
 ## Important Notes:
 
