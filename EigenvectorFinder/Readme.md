@@ -2,10 +2,12 @@
 
 In order to execute this project, you should have a txt document(whose name is given as argument to program), which has an nxn matrix in the form of;
 
+```
 3.14 1.59 2.65 3.58
 9.79 3.23 8.46 2.64
 3.38 3.27 9.50 2.88
 4.19 7.16 9.39 9.37
+```
 
 In the same folder with source.cpp file!
 
